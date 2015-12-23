@@ -1,0 +1,28 @@
+name: ArunOstwal
+favicon: null
+layout_spectrum: 0.3512009074911475
+typography_spectrum: 0.6169124499429017
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6674619563855231
+  lightness: 0.4849668249953538
+  saturation: 0.7657817050348967
+  rhythmicContrast: 0.1890787051524967
+purpose: []

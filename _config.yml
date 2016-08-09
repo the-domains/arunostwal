@@ -1,20 +1,4 @@
-name: ArunOstwal
-favicon: null
-layout_spectrum: 0.3512009074911475
 typography_spectrum: 0.6169124499429017
-title: Arun Ostwal
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#3C493F'
@@ -26,4 +10,26 @@ color:
   lightness: 0.4849668249953538
   saturation: 0.7657817050348967
   rhythmicContrast: 0.1890787051524967
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.3512009074911475
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Arun Ostwal
+  email: arunostwal@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/52071fff-7ed6-46ab-b57f-597f3c6c1519.jpg
+name: ArunOstwal
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e4115bc-a634-42a1-9db8-19e16d13655c.ico
+title: The Under acheiver!
 purpose: []
